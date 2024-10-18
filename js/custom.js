@@ -154,9 +154,8 @@ $(function() {
       transition: 'fade2',
       transitionDuration: 2000,
       slides: [
-        { src: "https://dummyimage.com/960x1080/4d4d4d/636363" },
-        { src: "https://dummyimage.com/960x1080/4d4d4d/636363" },
-        { src: "https://dummyimage.com/960x1080/4d4d4d/636363" }
+        { src: "img/backgrounds/zwart.webp" },
+		{ src: "img/backgrounds/blauw.webp" }
       ],
       animation: [ 'kenburnsUp', 'kenburnsDown', 'kenburnsLeft', 'kenburnsRight' ]
     });
@@ -170,9 +169,8 @@ $(function() {
       transition: 'fade2',
       transitionDuration: 2000,
       slides: [
-        { src: "https://dummyimage.com/1920x1080/4d4d4d/636363" },
-        { src: "https://dummyimage.com/1920x1080/4d4d4d/636363" },
-        { src: "https://dummyimage.com/1920x1080/4d4d4d/636363" }
+        { src: "img/backgrounds/blauw.webp" },
+		{ src: "img/backgrounds/zwart.webp" }
       ],
       animation: [ 'kenburnsUp', 'kenburnsDown', 'kenburnsLeft', 'kenburnsRight' ]
     });
